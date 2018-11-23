@@ -1,5 +1,5 @@
 # LaneSegmentationNetwork
-Created by [Dongkyu Yu] and [Daijin Kim](http://imlab.postech.ac.kr/members_d.htm) at [POSTECH IM Lab](http://imlab.postech.ac.kr)
+Created by Dongkyu Yu and [Daijin Kim](http://imlab.postech.ac.kr/members_d.htm) at [POSTECH IM Lab](http://imlab.postech.ac.kr)
 
 # Overview
 The semantic segmentaion network for lane segmentation. Which inspired by Google DeepLabV3.
