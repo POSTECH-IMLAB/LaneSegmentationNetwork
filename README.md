@@ -8,7 +8,7 @@ Created by Dongkyu Yu and [Daijin Kim](http://imlab.postech.ac.kr/members_d.htm)
 The semantic segmentaion network for lane segmentation. Which inspired by Google DeepLabV3. We use the [ResNet](https://github.com/KaimingHe/deep-residual-networks) as backbone network for high quailty feature extraction. And we design the module which employ atrous convolution with multi atrous rate which use same filters. It makes not only the network robust to multiple scales but also reduce the number of parameters for filters.
 
 # Performance
-We conduct the experiments on [Highway Driving Dataset for Semantic Video Segmentation](https://sites.google.com/site/highwaydrivingdataset/) from KAIST, achieving the test set performance 86.5% mIoU.
+We conduct the experiments on [Highway Driving Dataset for Semantic Video Segmentation](https://sites.google.com/site/highwaydrivingdataset/) from KAIST, achieving the test set performance 87.6% mIoU.
 
 # Pre-trained model
 You can download the pretrained model of network [here](https://drive.google.com/drive/folders/14TtrNFY94FS1fIDspzg4ZRPCFT5OXujc?usp=sharing).
